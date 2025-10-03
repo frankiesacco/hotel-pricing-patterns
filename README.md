@@ -50,9 +50,13 @@ Q5: Which cities or hotels provide the best value when controlling for star rati
 
 ## Key Insights
 -Distance from the city center does affect hotel prices significantly; the data shows that the closest hotels have an average price difference of up to $60 compared to those that are farther away
+
 -Outliers do exist for each star rating, they are not tied to any specific price. However, unfortunately there appear to be more "overpriced" hotels than those that could be considered good value, by our metrics.
+
 -As expexted, weekend prices tend to jump significantly compared to weekday prices in virtually all cities, however holidays were quite often less than we expected, likely due to discounts offered.
+
 -Regions with the highest average prices do indeed appear to be from Western Europe, with Amsterdam, London, and Dublin rounding out the top 3; contrastingly, hotels in Eastern Europe appear to be among the cheapest, with Samara, St. Petersburg, and Sofia holding the cheapest averages.
+
 -Hotels outside the city center are cheaper than those that are closer, however it would be a stretch to say they are definitively the better value. Hotels closer to the center have a higher aveage star rating, which explains the price increase. Therefore, we would say this isn't the best metric to use when measuring value.
 
 ---
