@@ -5,7 +5,11 @@ This project aims to analyze factors influencing hotel pricing in an effort to u
 
 This project analyzes hotel data from various cities in Europe to uncover trends and anomalies in pricing. Findings will help consumers find better deals based on factors like city location, timeframe, and online ratings.
 
-## Tools Used: MySQL Workbench, Microsoft Excel (for data merging/cleaning), Tableau
+**Tools Used:** MySQL Workbench, Microsoft Excel (for data merging/cleaning), Tableau
+
+### Data
+- **Source:** [Hotels-Europe Dataset](https://gabors-data-analysis.com/datasets/hotels-europe/)
+- **Size:** ~148k rows, 25 columns  
 
 ---
 
@@ -75,4 +79,4 @@ Preview:
 - Prioritize bookings around a holiday period for discounted room rates
 - Staying outside of the city center can bring significant savings (also drawbacks, such as being further from attractions)
 - Target mid-tier hotels (3-4 stars) to secure the best value; this range has consistently shown a higher amount of "good value" hotels
-- Our data shows that Western Europe has the highest prices relative to the rest of Europe; budget-concious travellers should prioritize good-value hotels and avoid during peak Summer season, if possible.
+- Our data shows that Western Europe has the highest prices relatively; budget-concious travelers should prioritize "good value" hotels and avoid during peak Summer season, when prices are highest.
