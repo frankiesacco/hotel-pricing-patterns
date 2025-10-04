@@ -74,7 +74,7 @@ This project is divided into two dashboards for clarity.
   - City average price per weekend vs weekday
   - City average price per holiday vs non-holiday
 
-📂 Tableau Packaged Workbook: (hotel_cancellation_analysis.twbx)  
+📂 Tableau Packaged Workbook: (hotel_pricing_patterns.twbx)  
 Preview:  
 ![Dashboard 1](averages.png)  
 ![Dashboard 2](value.png)
