@@ -76,8 +76,8 @@ This project is divided into two dashboards for clarity.
 
 📂 Tableau Packaged Workbook: (hotel_cancellation_analysis.twbx)  
 Preview:  
-![Dashboard 1](dashboard1.png)  
-![Dashboard 2](dashboard2.png)
+![Dashboard 1](averages.png)  
+![Dashboard 2](value.png)
 
 ## Conclusions & Recommendations
 - Prioritize bookings around a holiday period for discounted room rates
